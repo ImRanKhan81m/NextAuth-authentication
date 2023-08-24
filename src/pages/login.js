@@ -20,6 +20,8 @@ const LoginPage = () => {
           })} />
         </div>
         <hr />
+
+        
         <form>
           <label htmlFor="">Your Email</label>
           <input type="email" />
